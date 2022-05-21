@@ -15,4 +15,5 @@ public class GitPlaygroundApplication {
 
 // f1 change 1
 // f1 change 2
+// config expected
 // another local change
